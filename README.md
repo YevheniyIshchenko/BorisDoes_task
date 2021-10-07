@@ -9,3 +9,5 @@
 - npmm start 
 
 app will stat on http://localhost:8080
+
+mobile version max-width 576px
